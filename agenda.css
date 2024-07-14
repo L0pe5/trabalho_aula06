@@ -1,0 +1,90 @@
+body{
+
+}
+main {
+    background-color: bisque;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 968px;
+    background-image: url("img/7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main>ul>li{
+
+    background-color: black;
+}
+
+.dia {
+    height: 236px;
+    width: 337px;
+}
+.dia>ul{
+    list-style: none;
+    font-size: 16px;
+    color:#b76e79;
+
+}
+
+
+.dia>ul>li{
+margin: 14px;
+}
+.trabalhos {
+    padding: 0px;
+    height: 241px;
+    width: 238px;
+    margin: 59px;
+}
+.trabalhos>ul {
+    font-size: 16px;
+    margin: -4px;
+}
+.trabalhos>ul>li {
+    margin: 29px;
+    list-style: none;
+    color:#b76e79;
+}
+
+.duração{
+padding: 24px;
+margin: 4px;
+}
+
+
+.duração>ul{
+font-size: 16px;
+color:#b76e79;
+}
+
+.duração>ul>li {
+    margin: 26px;
+    list-style: none;
+}
+
+.duração {
+    padding: 33px;
+    margin: 4px;
+    height: 19pc;
+}
+
+.agendar {
+    display: flex;
+    flex-direction: column;
+    width: 181px;
+    height: 98px;
+    margin: 32px;
+}
+
+
+.meucss {
+    width: 98px;
+    margin: 7px;
+}
+
+.unico {
+    font-size: 31px;
+    color: hsl(0, 0%, 0%);
+    height: 58px;
+}
