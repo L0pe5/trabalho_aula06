@@ -1,3 +1,9 @@
+*{
+font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 .card{
     justify-content: center;
 }
